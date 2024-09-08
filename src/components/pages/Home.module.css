@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+.heading {
+  font-size: 2rem;
+  color: #333;
+}
+
+.link {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
